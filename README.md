@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Moura</h1>
-<h3 align="center">A Web Developer specialised in Front-End developement.</h3>
+<h3 align="center">A Web Developer with a specialization in Front-End Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardothimm&label=Profile%20views&color=0e75b6&style=flat" alt="leonardothimm" /> </p>
 
