@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Leonardothimm/Leonardothimm/blob/main/banner.png" alt="Leonardo Moura Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Welcome to my GitHub profile</h1>
 
 <p align="center">
