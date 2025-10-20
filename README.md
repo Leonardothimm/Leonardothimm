@@ -12,7 +12,7 @@
 - 💡 I enjoy turning real-world retail and business problems into digital tools that make operations easier.  
 - 💬 Ask me about **React, Node.js, Express, MySQL, HTML, CSS, JavaScript**  
 - 📫 Reach me at **[Leonardo.thimm@hotmail.com](mailto:Leonardo.thimm@hotmail.com)**  
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/leonardogimenesmoura)
+- 🔗 Connect on [LinkedIn](www.linkedin.com/in/leonardogimenesmoura)
 
 ---
 
