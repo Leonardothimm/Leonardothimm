@@ -36,6 +36,7 @@ VS Code • Git • GitHub • Postman • XAMPP
 
 | Project | Description | Stack |
 |----------|--------------|--------|
+| [**Dojeitodelaah**](https://github.com/Leonardothimm/Dojeitodelaah-case-study) | Responsive landing page with custom animations and serverless form integration. | HTML • CSS • JavaScript • FormSubmit |
 | [**Inventory Management System**](https://github.com/Leonardothimm/Inventory-Management-System) | Full-stack system for managing suppliers, products, and purchase orders. | React • Node.js • MySQL |
 | [**São Paulo Restaurant (V2)**](https://github.com/Leonardothimm/Sao-Paulo-Restaurant-V2) | Responsive restaurant website developed from scratch. | HTML • CSS • JS |
 | [**Web Services & API Project**](https://github.com/Leonardothimm/Web_Services_and_API) | RESTful application with endpoint integration and JSON parsing. | Node.js • Express |
